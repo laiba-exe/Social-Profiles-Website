@@ -1,0 +1,6 @@
+Open sc.html to access our home page and
+you can access the remaining pages via navigation bar on top.
+
+If the links are not working, you can manually adjust them 
+by opening folders birthdays and yearbook to find bbb.html and 
+yearbook.html respectively.
